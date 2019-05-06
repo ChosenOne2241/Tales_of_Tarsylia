@@ -1,10 +1,2 @@
-.gradle
-/.directory
-
-*.iml
-/local.properties
-
+.directory
 .DS_Store
-/build
-/captures
-/out
